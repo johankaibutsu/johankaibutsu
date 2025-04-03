@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working<br>🤝 I’m looking for help<br>🌱 I’m currently unlearning<br>💬 Ask me about nothing<br>⚡ Fun facts are boring
-
+Just a computer science dude who accidentally turned caffeine into code. I build things that (usually) work, debug things that shouldn’t be broken, and occasionally pretend to understand edge cases. If you need someone who can solve problems, automate the boring stuff, and make your tech stack behave, I’m around—unless my compiler is throwing errors, in which case, I might be busy negotiating with it.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaibotsujohan@gmail.com) 
