@@ -29,16 +29,14 @@
     </td>
     <td width="50%" valign="top">
 <pre>
-┌────────────────── About Me ───────────────────────────┐
-│ Just a computer science dude who accidentally turned  |
-| caffeine into code. I build things that (usually)     |
-| work, debug things that shouldn’t be broken, and      |
-| occasionally pretend to understand edge cases. If you |
-| need someone who can solve problems, automate the     |
-| boring stuff, and make your tech stack behave, I’m    |
-| around—unless my compiler is throwing errors, in      |
-| which case, I might be busy negotiating with it.      │
-└───────────────────────────────────────────────────────┘
+┌────────────────── About Me ─────────────────────────────────────────────────┐
+│ Just a computer science dude who accidentally turned caffeine into code.    |
+| I build things that (usually) work, debug things that shouldn’t be broken,  |
+| and occasionally pretend to understand edge cases. If you need someone who  |
+| can solve problems, automate the boring stuff, and make your tech stack     |
+| behave, I’m around—unless my compiler is throwing errors, in which case,    |
+| I might be busy negotiating with it.                                        |
+└─────────────────────────────────────────────────────────────────────────────┘
 </pre>
 <pre>
 ┌────────────── Tech & Tools ───────────────────────────────────────────────────────┐
